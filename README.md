@@ -1,8 +1,11 @@
 ![MasterHead](https://github.com/MooreDataNow/Images/blob/main/Photoleap_17_09_2023_13_43_52_RBhlU.jpg)
 <h1 align="center">Hi 👋, I'm Irvonte Moore</h1>
 <h3 align="center">A passionate Data Analytics Student from the United States</h3>
-<img src="https://github.com/MooreDataNow/Images/blob/main/coding%20gif.gif" alt="Coding">
-
+<div style="text-align:center;">
+ <div style="display:flex; justify-content:center;">
+  <img src="https://github.com/MooreDataNow/Images/blob/main/coding%20gif.gif" alt="Coding" autoplay width="70%">
+</div>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mooredatanow&label=Profile%20views&color=0e75b6&style=flat" alt="mooredatanow" /> </p>
 
 - 🔭 I’m currently working on **Enhancing My CodeAcademy Projects**
