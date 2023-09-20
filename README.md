@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/MooreDataNow/Images/blob/main/Photoleap_17_09_2023_13_43_52_RBhlU.jpg)
 <h1 align="center">Hi 👋, I'm Irvonte Moore</h1>
-<h3 align="center">A passionate Data Analytics Student from the United States</h3>
+<h3 align="center">View Recent Projects Ive had Worked On In My Repository</h3>
 <div align="center">
   <img src="https://github.com/MooreDataNow/Images/blob/main/coding%20gif.gif" alt="Coding" autoplay width="70%">
 </div>
